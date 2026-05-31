@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersetch",
+        "uuid": 18454800,
+        "checksum": "rk4r7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
